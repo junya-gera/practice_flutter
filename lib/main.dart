@@ -1,3 +1,5 @@
+// material.dart ファイルには export で material, widgetファイルも見れるようにしているため、
+// material, widget のクラスや関数が利用できるようになる
 import 'package:flutter/material.dart';
 
 void main() {
